@@ -1,4 +1,5 @@
 
+
 .mission_statement {
     background: #000 url(../images/mainhomeless.jpg) no-repeat center 0 fixed;
     padding: 40px 0;
@@ -13,5 +14,8 @@
 }
 
 
-
+.column:last-child:not(:first-child), .columns:last-child:not(:first-child) {
+    float: right;
+    padding-top: 20px;
+}
 
