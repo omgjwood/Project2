@@ -11,7 +11,13 @@
 }
 
 .mission_paragraph {
-    background-color: rgba(63, 58, 58, 0.77);
+    background-color: rgba(51, 47, 47, 0.98);
+    padding: 15px;
+}
+
+.rescue {
+    text-align: center;
+    padding: 10px;
 }
 
 body {
