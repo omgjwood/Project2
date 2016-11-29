@@ -85,3 +85,6 @@ footer {
     padding-top: 20px;
 }
 
+img {
+    image-orientation: center;
+}
