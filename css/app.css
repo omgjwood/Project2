@@ -7,6 +7,7 @@
     background-size: cover;
     color: white;
     background-position: center;
+    height: auto;
 }
 
 .mission_paragraph {
@@ -37,4 +38,20 @@ body {
 
 .menu-text {
     color: white;
+}
+
+.menu > li > a {
+    color: #fff;
+}
+
+a:hover {
+    color: #2199e8;
+}
+
+footer {
+    color: #fff;
+}
+
+h2 {
+    padding: 15px;
 }
