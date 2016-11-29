@@ -4,10 +4,8 @@
     background: #000 url(../images/mainhomeless.jpg) no-repeat center 0 fixed;
     padding: 40px 0;
     min-height: 500px;
-    max-height: 800px;
     background-size: cover;
     color: white;
-    margin: 0 0 0 40px;
     background-position: center;
 }
 
@@ -27,4 +25,16 @@ body {
 
 .row {
     background-color: #fff;
+}
+
+.volunteer {
+    padding: 0px;
+}
+
+.top-bar, .top-bar ul {
+    background-color: #000;
+}
+
+.menu-text {
+    color: white;
 }
