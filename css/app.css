@@ -12,7 +12,7 @@
 
 .mission_paragraph {
     background-color: rgba(51, 47, 47, 0.98);
-    padding: 15px;
+    padding: 20px;
 }
 
 .rescue {
@@ -66,13 +66,14 @@ li {
     text-align: left;
 }
 
-h3, h4 {
+h3{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
 }
 
 .row_footer {
     background-color: black;
+    padding-top: 60px;
 }
 
 footer {
@@ -86,5 +87,11 @@ footer {
 }
 
 img {
-    image-orientation: center;
+    padding-bottom: 30px;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    padding-bottom: 20px;
 }
