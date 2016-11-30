@@ -27,6 +27,7 @@ body {
 
 .row {
     background-color: #fff;
+    padding-bottom: 60px;
 }
 
 .volunteer {
@@ -59,6 +60,7 @@ h2 {
 h5 {
     font-weight: bold;
     font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 0px;
 }
 
 li {
@@ -73,7 +75,6 @@ h3{
 
 .row_footer {
     background-color: black;
-    padding-top: 60px;
 }
 
 footer {
@@ -94,4 +95,9 @@ h4 {
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     padding-bottom: 20px;
+}
+
+.places {
+    padding-bottom: 15px;
+    padding-left: 10px;
 }
